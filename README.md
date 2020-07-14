@@ -1,4 +1,4 @@
 # Crazy-coin
 
 ## Preview
-https://vsevporyadin.github.io/Crazy-coin/
+https://vsevporyadin.github.io/Crazy-coin-Landing-page/
